@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">UAS_Pemograman-Mobile-1</string>
+    <string name="Headline">Menu Utama</string>
+    <string name="hello">Bagaimana Kabar Anda Hari Ini?</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_hitung">Hitung</string>
+    <string name="hitung_initial_value">0</string>
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+    <string name="article_text">Despite being a hot topic in Indonesia since the start of the year, we ignored the murder case of Mirna Salihin. However, we decided to devote one article on the topic because on Thursday (27/10) Mirna's friend, 27-year old Jessica Kumala Wongso, was sentenced to 20 years in prison having been found guilty - by the Central Jakarta District Court - of murdering Mirna by putting cyanide in her Vietnamese iced coffee. The whole case and trial bear resemblance to the O.J. Simpson murder case in Los Angeles (USA) in 1995 in terms of public attention and media coverage.
+        Background of Mirna's Murder
+        Jakarta-born Jessica Kumala Wongso invited her friends, including victim Mirna Salihin, for drinks at Cafe Olivier in the Grand Indonesia mall (located in Central Jakarta) on 6 January 2016. Jessica arrived much earlier than the agreed time, ordered drinks (including the Vietnamese iced coffee for Mirna) and chose to sit at a table that was not clearly visible to the surveillance cameras. After the drinks were brought to the table Jessica allegedly hid these drinks from the surveillance cameras and people's eyes by placing some shopping bags on the table.
+        When Mirna and another friend (Hani) arrived a while later at Cafe Olivier, Jessica invited Mirna to drink the Vietnamese iced coffee she had ordered about one hour earlier. After taking a zip, Mirna complained that the iced coffee tasted horrible. Her friend Hani also tried a little bit of the coffee and agreed that the taste was weird. Jessica, however, did not taste the coffee. Shortly after, Mirna lost consciousness. She was transported by ambulance to a local hospital but died within one hour after taking the zip from the coffee.
+        Based on the autopsy report, bleeding was found in Mirna's stomach. Indonesian police announced that research concluded that cyanide was found both in Mirna's Vietnamese iced coffee and in her stomach.\
+        The Trial of Jessica
+        On 30 January 2016 Jessica was arrested, being charged with premeditated murder of her friend. It took weeks before this move was made because investigators could not find the direct evidence that shows Jessica put the cyanide in Mirna's coffee. Although Jessica's behavior was very suspicious (arriving hours early in Cafe Olivier, ordering coffee one hour in advance, and placing bags on the table that made the drink invisible) it could not find the final piece of the puzzle (direct evidence). It actually never found this decisive piece and that made the case even more controversial. The public opinion, however, was clear: Jessica is the killer.
+        Meanwhile, the case was fiercely debated and commented on social media, broadcast continuously in the nation's media (television and newspapers) and has been one of the main topics of conversation among the young population. Especially the motive behind the murder provided ample room for speculation: was Jessica resentful because her lesbian lover Mirna rejected her by marrying Arief Soemarko in November 2015? Or was Mirna's husband Arief behind the murder of his wife? Or did a (former) business partner of Mirna's father (Edi Darmawan Salihin) take revenge on him by killing his daughter?
+        How Did Iced Coffee Become a Hot Topic?
+        It is interesting why this case became such a hype. After all, friends killing each other happens more often in Indonesia but never becomes such a major event followed by millions of people. The whole trial of Jessica between 30 January and the verdict on 27 October 2016 was even broadcast live on national television.
+        Perhaps the answer is Indonesians' love for televised soap operas (in Indonesian: sinetron). The trial of Jessica was a form of real sinetron that has also become a popular television format in the western world starting from the 1990s with television shows such as "Big Brother" (a format that is possibly cheaper for the producers). In these shows not actors but "ordinary" people become the main characters of the show who experience the drama or happiness.
+        The Mirna murder case and Jessica trial share features of traditional soap operas: the girls involved are young and good-looking, they are wealthy, and it involves huge drama (one friend killing another friend; moreover, Mirna had just started a new life as wife after a dream wedding on Bali two months earlier).
+        Moreover, the location of the murder also adds "glamour" to this case. While murder cases usually occur in forests or at home, this murder scene was set at a luxurious cafe in one of the most luxurious malls of Indonesia.
+        Verdict of the Central Jakarta District Court
+        Despite having no direct witnesses or video surveillance footage that shows Jessica putting cyanide in Mirna's coffee, the Jakarta District Court is certain that Jessica is the killer and sentenced her to 20 years in jail, in line with demands of prosecution. Its verdict is based on the suspicious behavior of Jessica on and around 6 January 2016 as well as on Jessica's controversial past in Australia.
+        Jessica is a former permanent resident of Australia. After completing high school in 2008 she followed her family to Australia where she attended Billy Blue College in Sydney. Jessica would remain in Australia for seven years until she decided to move back to Jakarta in late 2015 to find a job.
+        It was at Billy Blue College where Jessica met Mirna and the two became friends. However, according to the prosecutors (and agreed upon by the court), Jessica became upset with Mirna because the latter did not approve of Jessica's Australian boyfriend Patrick O’Connor. Later, after Jessica and Patrick had split up, Jessica showed worrying signs of mental disorder and the former boyfriend requested a restraining order against Jessica (in November 2015). She responded by threatening to commit suicide. Previously there had occurred an alcohol-fueled accident where she drove her car into a nursing home (in August 2015). All are signs of mentally unstable behavior. In combination with her suspicious behavior in Cafe Olivier it led to a 20-year prison sentence (possibly the court was also under the influence of the public opinion; most followers of the case are convinced that Jessica is the murderer).
+        But despite the verdict on Thursday (27/10), the story will not end here as Jessica's lawyer already said they will appeal the verdict. Considering direct evidence is not available, the appeal could have a chance.
+        This article was written by R.M.A van der Schaar, the Managing Director of Indonesia Investments. He obtained his Masters degree in Southeast Asian Studies from Leiden University (the Netherlands) with a major focus on the society, history and linguistics of Indonesia.
+    </string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_alarm">Alarm</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text1">Google Maps</string>
+    <string name="text2">Search Address</string>
+    <string name="count_initial_value">1</string>
+    <string name="button_label_fibonacci">Fibonacci</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_label_reset">Reset</string>
+    <string name="tab1">Action</string>
+    <string name="tab2">Romance</string>
+    <string name="tab3">Comedy</string>
+    <string name="project_1">HELLO</string>
+    <string name="project_2">CASE SIANIDA</string>
+    <string name="project_3">COUNT</string>
+    <string name="project_4">TWO ACTIVITY</string>
+    <string name="project_5">SET ALARM</string>
+    <string name="project_6">MAPS</string>
+    <string name="action">The Equalizer (2014)</string>
+    <string name="synopsis">Synopsis :</string>
+    <string name="WatchNow">Watch Now</string>
+    <string name="comedy">Jumanji (2017)</string>
+    <string name="romance">Crazy Love (2013)</string>
+    <string name="synopsis1">"The Equalizer" adalah cerita tentang Robert McCall, seorang mantan agen rahasia yang pensiun dan memutuskan untuk menggunakan keterampilan berbahanya untuk membantu mereka yang tidak dapat membela diri.</string>
+    <string name="synopsis2">"Crazy Love" adalah sebuah film yang mengisahkan tentang kisah cinta yang intens antara dua individu dengan kepribadian yang unik.</string>
+    <string name="synopsis3">"Jumanji" adalah petualangan luar biasa di dunia virtual Jumanji. Empat remaja terjebak dalam permainan video kuno dan tanpa sengaja menjadi karakter avatar yang sangat berbeda dari diri mereka sendiri.</string>
+</resources>

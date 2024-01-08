@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Text_Size">150</dimen>
+    <dimen name="padding_regular">10</dimen>
+    <dimen name="line_spacing">5</dimen>
+</resources>
