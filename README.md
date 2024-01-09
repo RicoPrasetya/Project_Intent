@@ -3,9 +3,9 @@
 
 Nama : Rico Prasetya
 
-NIM  : 312210425
+NIM    : 312210425
 
-Kelas : TI.22.A1
+Kelas  : TI.22.A1
 
 ### 1. Menu Utama
 ### 2. Menu Hello
